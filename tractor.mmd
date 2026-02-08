@@ -1,0 +1,8 @@
+flowchart TD
+    A[Here4 Flight with rover controller firmware] 
+    A <-->|DroneCan| LB[Left Tower Blox controller]
+    A <-->|DroneCan| RB[Right Tower Blox controller]
+    LB <--> LP[Left UI panel]
+    RB --> RV[Right VESC]
+    LB --> LV[Left VESC]
+    RB <--> RP[Right UI panel]

@@ -1,0 +1,6 @@
+[submodule "bldc"]
+	path = bldc
+	url = https://github.com/tmagik/bldc
+[submodule "vesc_tool"]
+	path = vesc_tool
+	url = https://github.com/tmagik/vesc_tool
