@@ -4,3 +4,12 @@
 [submodule "vesc_tool"]
 	path = vesc_tool
 	url = https://github.com/tmagik/vesc_tool
+[submodule "gui_tool"]
+	path = gui_tool
+	url = https://github.com/tmagik/gui_tool
+[submodule "qgroundcontrol"]
+	path = qgroundcontrol
+	url = https://github.com/tmagik/qgroundcontrol
+[submodule "pydronecan"]
+	path = pydronecan
+	url = https://github.com/tmagik/pydronecan
